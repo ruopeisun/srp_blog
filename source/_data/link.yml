@@ -1,0 +1,13 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: szldl
+      link: http://home.ustc.edu.cn/~pscgylotti/
+      avatar: http://home.ustc.edu.cn/~pscgylotti/blogs/img/favicon.png
+      descr: 教我建站软件层面的dl之一
+    2:
+      name: zchdl
+      link: http://home.ustc.edu.cn/~zch184/
+      avatar: https://cdn.jsdelivr.net/gh/touko628/cdn@first/avatar2.webp
+      descr: 教我建站软件层面的dl之二
